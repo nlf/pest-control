@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "a debug-esque logger with some extras",
   "main": "lib/index.js",
-  "scripts": {
-    "test": "tap --100 test/*-test.js"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/nlf/pest-control.git"
